@@ -9,8 +9,10 @@
 
 在线阅读：`https://sinenter2026.github.io/critical-theory-primer/`（书 `/book/`，图 `/map/`）
 
-**In English** — A primer on critical theory, from Hegel to Žižek: a six-chapter book (`book/`) and a clickable map of ninety-one concepts (`map/`). Written for readers with no philosophy background; every term enters through an ordinary scene rather than a definition. Read online: `https://sinenter2026.github.io/critical-theory-primer/`
+**In English** — A primer on critical theory, from Hegel to Žižek: a six-chapter book (`book/`) and a clickable map of ninety-one concepts (`map/`). Written for readers with no philosophy background; every term enters through an ordinary scene rather than a definition. Written by an amateur reader; corrections welcome. Read online: `https://sinenter2026.github.io/critical-theory-primer/`
 
+
+这两份材料是业余读出来的，入门水平：能核的出处都核了，核不到的地方标了等级；读错的欢迎直接指出。
 
 ## 一、它讲的是哪一路哲学
 
