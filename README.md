@@ -7,7 +7,7 @@
 - **书**：`book/` — 六章，从「我」怎么被安排讲起。在线读：`book/index.html`
 - **图**：`map/` — 九十一个概念、二百八十三条关系，可以点着走。在线看：`map/index.html`
 
-在线阅读：`https://sinenter2026.github.io/zizek/`（书 `/book/`，图 `/map/`）
+在线阅读：`https://sinenter2026.github.io/critical-theory-primer/`（书 `/book/`，图 `/map/`）
 
 ## 一、它讲的是哪一路哲学
 
