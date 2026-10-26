@@ -9,6 +9,9 @@
 
 在线阅读：`https://sinenter2026.github.io/critical-theory-primer/`（书 `/book/`，图 `/map/`）
 
+**In English** — A primer on critical theory, from Hegel to Žižek: a six-chapter book (`book/`) and a clickable map of ninety-one concepts (`map/`). Written for readers with no philosophy background; every term enters through an ordinary scene rather than a definition. Read online: `https://sinenter2026.github.io/critical-theory-primer/`
+
+
 ## 一、它讲的是哪一路哲学
 
 书里出现最多的是拉康（34 次）、马克思（28 次）、黑格尔（17 次），其次是阿尔都塞（9 次）、弗洛伊德（4 次）、巴迪欧（4 次）。
