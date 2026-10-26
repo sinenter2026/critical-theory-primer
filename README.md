@@ -80,3 +80,5 @@ python -m http.server 8000
 ```
 
 没有构建，没有依赖。一个 HTML 加一个图片目录就是全部。
+
+<!-- deploy self-test -->
