@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinenter2026.github.io/critical-theory-primer/sitemap.xml
